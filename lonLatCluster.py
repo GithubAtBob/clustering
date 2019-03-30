@@ -25,9 +25,9 @@ for index,row in data.iterrows():
     data.loc[index,'出发地聚类Id'] = kmeansF.labels_[index]
     data.loc[index,'目的地聚类Id'] = kmeansT.labels_[index]
 data.to_csv('processedData.csv')
-markers = ['^','v','x','o','*','+','|','_']
+colors = ['b','c','g','k','m','r','w','y']
 for i in range(n_clusters):
     members = kmeansF.labels_==i
-    plt.scatter(fLonLat[members, 0], fLonLat[members, 1], s=60, marker=markers[i], c='b', alpha=0.5)
+    plt.scatter(fLonLat[members, 0], fLonLat[members, 1], s=60, marker='*', c=colors[i], alpha=0.5)
 plt.title(' ')
 plt.show()
