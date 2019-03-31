@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="950332fd-2f4f-43e2-88fb-77c7224e6386" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/clustering.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lonLatCluster.py" beforeDir="false" afterPath="$PROJECT_DIR$/lonLatCluster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pcaData.py" beforeDir="false" afterPath="$PROJECT_DIR$/pcaData.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/processedData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processingData.py" beforeDir="false" afterPath="$PROJECT_DIR$/processingData.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/processingData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="28" column="93" lean-forward="true" selection-start-line="28" selection-start-column="93" selection-end-line="28" selection-end-column="96" />
+            <state relative-caret-position="266">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -32,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pcaData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="76">
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="38" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -41,13 +44,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="64" />
+            <state relative-caret-position="171">
+              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,10 +77,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lonLatCluster.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="190">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elbowMethod.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="9" lean-forward="true" selection-end-line="32" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elbowMain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-117">
+              <folding>
+                <element signature="e#1#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,19 +130,21 @@
         <option value="$PROJECT_DIR$/getRoute.py" />
         <option value="$PROJECT_DIR$/getDiffTime.py" />
         <option value="$PROJECT_DIR$/processExcel.py" />
-        <option value="$PROJECT_DIR$/clustering.py" />
-        <option value="$PROJECT_DIR$/pcaData.py" />
-        <option value="$PROJECT_DIR$/processingData.py" />
-        <option value="$PROJECT_DIR$/lonLatCluster.py" />
         <option value="$PROJECT_DIR$/processWeek.py" />
+        <option value="$PROJECT_DIR$/elbowMethod.py" />
+        <option value="$PROJECT_DIR$/lonLatCluster.py" />
+        <option value="$PROJECT_DIR$/processingData.py" />
+        <option value="$PROJECT_DIR$/pcaData.py" />
+        <option value="$PROJECT_DIR$/elbowMain.py" />
+        <option value="$PROJECT_DIR$/clustering.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-13" />
-    <option name="y" value="17" />
+    <option name="x" value="-325" />
+    <option name="y" value="301" />
     <option name="width" value="1943" />
-    <option name="height" value="993" />
+    <option name="height" value="727" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -221,16 +249,18 @@
       <workItem from="1553475833446" duration="614000" />
       <workItem from="1553598729325" duration="1155000" />
       <workItem from="1553945416521" duration="14226000" />
+      <workItem from="1554009407613" duration="2292000" />
+      <workItem from="1554021238986" duration="12150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129131000" />
+    <option name="totallyTimeSpent" value="143573000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="14" width="1554" height="794" extended-state="0" />
+    <frame x="-260" y="241" width="1554" height="581" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32486632" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3342246" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -249,7 +279,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32954547" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -292,32 +322,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/processExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pcaData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/processWeek.py" />
+    <entry file="file://$PROJECT_DIR$/processedData.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/getDistance.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -326,35 +333,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/processWeek.py">
+    <entry file="file://$PROJECT_DIR$/processExcel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/processedData.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lonLatCluster.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="95">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processingData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="28" column="93" lean-forward="true" selection-start-line="28" selection-start-column="93" selection-end-line="28" selection-end-column="96" />
+        <state relative-caret-position="266">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pcaData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elbowMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" lean-forward="true" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elbowMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lonLatCluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
           </folding>
         </state>
       </provider>
