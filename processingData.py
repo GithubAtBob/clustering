@@ -1,9 +1,7 @@
 import pandas as pd
-from time import strptime,mktime
-from datetime import datetime
 from sklearn.preprocessing import scale
 from sklearn.preprocessing import LabelEncoder
-import getDistance
+
 
 def t2m(t):
     h,m,s = t.strip().split(":")
